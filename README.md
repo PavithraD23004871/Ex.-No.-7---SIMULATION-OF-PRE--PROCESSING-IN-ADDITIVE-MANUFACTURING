@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/PavithraD23004871/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/138955967/026abf5c-e978-46f8-8f4a-230f7f331d25)
+
+### Name: PAVITHRA D
+### Register Number:212223230146
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
